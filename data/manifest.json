@@ -1,0 +1,43 @@
+{
+  "built_utc": "2026-09-02T02:38:12Z",
+  "script": "build_crosswalk.py",
+  "script_version": "1.1.0",
+  "source": {
+    "file": "HangJeongDong_ver20260701.geojson",
+    "sha256": "a394b1741d89f9c3556b6d83845b899f8ebe32f13fd77646fa07cabf76c286b4",
+    "bytes": 34653221,
+    "vintage": "2026-07-01",
+    "file_mtime_utc": "2026-08-15T03:37:51Z",
+    "features": 3558,
+    "url": "https://github.com/vuski/admdongkor",
+    "licence": "KOGL Type 1 (SGIS) + CC BY 4.0 (admdongkor) - see LICENSE-DATA.md"
+  },
+  "outputs": {
+    "kr_admin_codes_sido.csv": {
+      "rows": 16,
+      "sha256": "614e882e682dd88ef4ebb4684992617fc01d0d6f182baa4b3e58b359c31afa38",
+      "bytes": 773
+    },
+    "kr_admin_codes_sigungu.csv": {
+      "rows": 256,
+      "sha256": "d9648cd7bb5f993d80d834eda06cdedc729da5fe8f379c16c1effad05c343b5f",
+      "bytes": 11451
+    },
+    "kr_admin_codes_dong.csv": {
+      "rows": 3558,
+      "sha256": "9d82533818ec8d489750c66740a8ba538293d78340067a961b9b9d335cc1427f",
+      "bytes": 452141
+    }
+  },
+  "summary": {
+    "sido": 16,
+    "sigungu": 256,
+    "dong": 3558,
+    "sido_codes_identical": 2,
+    "collisions": {
+      "sido": 2,
+      "sigungu": 9,
+      "dong": 48
+    }
+  }
+}

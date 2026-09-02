@@ -1,0 +1,17 @@
+sido_kostat,sido_mois,codes_match,name_ko,name_en,sigungu_count,dong_count
+11,11,yes,서울특별시,Seoul,25,427
+12,12,yes,전남광주통합특별시,Jeonnam-Gwangju,27,393
+21,26,no,부산광역시,Busan,16,206
+22,27,no,대구광역시,Daegu,9,150
+23,28,no,인천광역시,Incheon,11,158
+25,30,no,대전광역시,Daejeon,5,82
+26,31,no,울산광역시,Ulsan,5,55
+29,36,no,세종특별자치시,Sejong,1,24
+31,41,no,경기도,Gyeonggi-do,47,602
+32,51,no,강원특별자치도,Gangwon-do,18,188
+33,43,no,충청북도,Chungcheongbuk-do,14,153
+34,44,no,충청남도,Chungcheongnam-do,16,208
+35,52,no,전북특별자치도,Jeonbuk-do,15,243
+37,47,no,경상북도,Gyeongsangbuk-do,23,321
+38,48,no,경상남도,Gyeongsangnam-do,22,305
+39,50,no,제주특별자치도,Jeju-do,2,43
