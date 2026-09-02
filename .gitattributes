@@ -1,2 +1,9 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+# Data files must be byte-exact on every platform. data/manifest.json records
+# the SHA-256 of each CSV, and the test suite asserts those checksums match the
+# files on disk - a CRLF conversion on Windows checkout would break that test.
+# Never convert line endings for these.
+*.csv  -text
+*.json -text

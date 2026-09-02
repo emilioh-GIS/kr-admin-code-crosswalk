@@ -1,5 +1,7 @@
 # Korean Administrative Code Crosswalk (KOSTAT ↔ MOIS)
 
+[![tests](https://github.com/emilioh-GIS/kr-admin-code-crosswalk/actions/workflows/ci.yml/badge.svg)](https://github.com/emilioh-GIS/kr-admin-code-crosswalk/actions/workflows/ci.yml)
+
 A flat, documented, tested lookup table mapping South Korea's **two parallel
 administrative code systems** against each other at all three levels — province
 (시도), municipality (시군구), and administrative neighbourhood (행정동).
